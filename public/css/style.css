@@ -1,0 +1,12 @@
+body {
+  background-color: indigo;
+  color: white;
+}
+
+a {
+  color: lightcoral;
+}
+
+img {
+  cursor: pointer;
+}
